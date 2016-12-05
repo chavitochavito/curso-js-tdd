@@ -1,0 +1,24 @@
+{
+  "name": "curso-js-tdd",
+  "version": "1.0.0",
+  "description": "nossa biblioteca do curso de js com tdd na pratica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chavitochavito/curso-js-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "libray"
+  ],
+  "author": "Bruno Chaves <bruno.chaves@gmail.com> (http://chavito.org/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chavitochavito/curso-js-tdd/issues"
+  },
+  "homepage": "https://github.com/chavitochavito/curso-js-tdd#readme"
+}
